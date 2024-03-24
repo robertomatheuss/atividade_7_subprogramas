@@ -18,7 +18,7 @@ public class Main{
         }else if (opcao ==3){
             primeiroCaixa.apresentaSaldo(saldo);
         }else{
-            System.out.println("Opcao invalida.");
+            System.out.println("Opcâo invalida.");
         }
         scan.close();
     }

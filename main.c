@@ -21,10 +21,10 @@ int main(){
     printf("Digite a operação (+,-,*,/): ");
     scanf("%c",&operador);
 
-    printf("Digite o primeiro numero");
+    printf("Digite o 1a numero");
     scanf("%f",&num1);
 
-    printf("Digite o segundo numero");
+    printf("Digite o 2a numero");
     scanf("%f",&num2);
 
     switch (operador){
